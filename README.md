@@ -1,5 +1,6 @@
 ## Hi there 👋
-<iframe>https://dellsale.ru</iframe>
+![image](https://github.com/user-attachments/assets/e73a2740-727f-4934-8f83-48a7730d28c5)
+
 <!--
 **crrrazyden/crrrazyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
